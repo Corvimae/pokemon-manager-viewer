@@ -16,7 +16,7 @@
     "@types/draft-js": "^0.10.38",
     "@types/react-redux": "^7.1.7",
     "@zeit/next-css": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "next": "9.2.2",
     "react": "16.12.0",
     "react-dom": "16.12.0",
